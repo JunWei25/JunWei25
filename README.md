@@ -10,15 +10,9 @@
 ### Here are the Frameworks I am familar with:
 
 <p align="center">
-    <a href="#">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="text-decoration:none; vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
-    </a>
-    <a href="#">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
-    </a>
 </p>
 
 ### Here are the Languages I am familiar with:
