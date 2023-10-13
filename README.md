@@ -29,7 +29,7 @@
 
 ### Database I am familiar with:
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/index.html" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
-    <img src="https://www.vectorlogo.zone/logos/mysql/index.html" alt="MySQL" style="vertical-align:top; margin:6px 4px">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" style="vertical-align:top; margin:6px 4px">
 </p>
 
