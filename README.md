@@ -13,11 +13,9 @@
     <a href="#">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="text-decoration:none; vertical-align:top; margin:6px 4px">
     </a>
-
     <a href="#">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
     </a>
-
     <a href="#">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
     </a>
@@ -32,10 +30,6 @@
 
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
