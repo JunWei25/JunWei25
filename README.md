@@ -10,17 +10,11 @@
 ### Frameworks 
 
 <p align="left">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>  
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">  
+
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">  
 </p>
 
 ### Languages 
