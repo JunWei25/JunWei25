@@ -15,7 +15,7 @@
   </a>  
 
    <a href="#">
-    <img src="svg/dev/frameworks/avalonia.svg" alt="avalonia" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/avalonia.svg" alt="avalonia" style="vertical-align:top; margin:6px 4px">
   </a>  
 
    <a href="#">
