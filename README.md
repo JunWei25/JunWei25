@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Jun Wei
 
 - 🔭 I’m currently working on Tras Durian Farm App
 - 🌱 I’m currently learning React Native
@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like classical music
 
-### Frameworks 
+### I am familiar with these Frameworks 
 
 <p align="center">
     <a href="#">
