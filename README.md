@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like classical music
 
-### - Languages and Tools...
+### Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
