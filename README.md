@@ -27,7 +27,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
 </p>
 
-### Database I am familiar with:
+### DBMS I am familiar with:
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" style="vertical-align:top; margin:6px 4px">
