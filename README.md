@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jun Wei
+### Hi I'm Jun Wei
 
 - 🔭 I’m currently working on Tras Durian Farm App
 - 🌱 I’m currently learning React Native
@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like classical music
 
-### Here are the Frameworks I am familar with:
+### Frameworks I am familar with:
 
 <p align="center">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="text-decoration:none; vertical-align:top; margin:6px 4px">
@@ -15,7 +15,7 @@
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
 </p>
 
-### Here are the Languages I am familiar with:
+### Languages I am familiar with:
 
 <p align="center">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
@@ -26,3 +26,10 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
 </p>
+
+### Database I am familiar with:
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/index.html" alt="MongoDB" style="vertical-align:top; margin:6px 4px">
+    <img src="https://www.vectorlogo.zone/logos/mysql/index.html" alt="MySQL" style="vertical-align:top; margin:6px 4px">
+</p>
+
