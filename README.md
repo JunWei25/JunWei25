@@ -1,6 +1,6 @@
 ### Hi I'm Jun Wei
 
-- 🔭 I’m currently working on Duha Global (https://duhaglobal.vercel.app/)
+- 🔭 I’m currently working on Duha Global
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about OOP, AI, Basketball
 - 📫 How to reach me: junw3i.work@gmail.com
