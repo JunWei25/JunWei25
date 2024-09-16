@@ -13,6 +13,7 @@
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="text-decoration:none; vertical-align:top; margin:6px 4px">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
 </p>
 
 ### Languages I am familiar with:
@@ -25,6 +26,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
 </p>
 
 ### DBMS I am familiar with:
