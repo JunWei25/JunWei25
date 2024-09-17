@@ -14,7 +14,7 @@
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/csharp_dotnet.svg" alt=".net" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt=".net" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
 </p>
 
 ### Languages I am familiar with:
