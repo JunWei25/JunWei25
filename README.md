@@ -10,7 +10,7 @@
 ### Frameworks I am familar with:
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=spring-dark,kubernetes,docker,c,vim" />
   </a>
 </p>
 <p align="center">
