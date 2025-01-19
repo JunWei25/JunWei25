@@ -10,12 +10,12 @@
 ### Frameworks I am familar with:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="center">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="text-decoration:none; vertical-align:top; margin:6px 4px">
+<!--         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="text-decoration:none; vertical-align:top; margin:6px 4px">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt=".net" style="text-decoration:none; vertical-align:top; margin:6px 4px">  
-        [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+        [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
 
 ### Languages I am familiar with:
 
