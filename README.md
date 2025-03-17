@@ -1,6 +1,6 @@
 ### Hi I'm Jun Wei
 
-- 🔭 I’m currently working on [Duha Global](https://duhaglobal.vercel.app/)
+- 🔭 I’m currently working on [Gases Dex](https://gasesdexwebsite.onrender.com/) and [Duha Global](https://duhaglobal.vercel.app/).
 - 🌱 I’m currently learning Computer Vision
 - 💬 Ask me about OOP, AI, Basketball
 - 📫 How to reach me: junw3i.work@gmail.com
