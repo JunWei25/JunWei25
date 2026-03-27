@@ -1,8 +1,8 @@
 ### Hi I'm Jun Wei
 
 - 🔭 I’m currently working on [Gases Dex](https://gasesdexwebsite.onrender.com/) and [Duha Global](https://duhaglobal.vercel.app/).
-- 🌱 I’m currently learning Computer Vision
-- 💬 Ask me about OOP, AI, Basketball
+- 🌱 I’m currently pursuing masters in AI at Monash University Malaysia. 
+- 💬 Ask me about RAG, AI, AgriTech and Basketball
 - 📫 How to reach me: junw3i.work@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like classical music
@@ -10,7 +10,7 @@
 ### Frameworks I am familar with:
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,angular" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,angular,nextjs" />
   </a>
 </p>
 <p align="center">
