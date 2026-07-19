@@ -1,6 +1,6 @@
 ### Hi I'm Jun Wei
 
-- 🔭 I’m currently working on [Gases Dex](https://gasesdexwebsite.onrender.com/) and [Duha Global](https://duhaglobal.vercel.app/).
+- 🔭 I’m currently working on [Gases Dex](https://gases-dex-website.vercel.app/#products) and [Duha Global](https://duhaglobal.vercel.app/).
 - 🌱 I’m currently pursuing masters in AI at Monash University Malaysia. 
 - 💬 Ask me about RAG, AI, AgriTech and Basketball
 - 📫 How to reach me: junw3i.work@gmail.com
